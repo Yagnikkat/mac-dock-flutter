@@ -10,4 +10,4 @@ This repository contains a Flutter-based demo replicating a macOS-style dock. De
 
 ![alt text](https://github.com/Yagnikkat/mac-dock-flutter/blob/master/sample/sample1.png?raw=true)
 
-[Demo:](ttps://yagnikhk007.github.io/)
+[Demo:](https://yagnikhk007.github.io/)
